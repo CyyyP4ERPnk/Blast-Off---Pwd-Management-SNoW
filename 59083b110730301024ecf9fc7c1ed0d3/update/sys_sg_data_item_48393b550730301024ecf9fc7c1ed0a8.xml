@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>What are the reset questions</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Blast Off Password Reset Active Question</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 21:40:08</sys_created_on>
+        <sys_id>48393b550730301024ecf9fc7c1ed0a8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Blast Off Password Reset Active Question</sys_name>
+        <sys_package display_value="Blast Off" source="x_536549_blast_off">59083b110730301024ecf9fc7c1ed0d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Blast Off">59083b110730301024ecf9fc7c1ed0d3</sys_scope>
+        <sys_update_name>sys_sg_data_item_48393b550730301024ecf9fc7c1ed0a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 21:55:31</sys_updated_on>
+        <table>pwd_active_question</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=48393b550730301024ecf9fc7c1ed0a8"/>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Blast Off">3a2937d10730301024ecf9fc7c1ed0cb</applet_launcher>
+        <icon display_value="Home Blast Off">fe2937d10730301024ecf9fc7c1ed0cc</icon>
+        <label>Blast Off</label>
+        <roles>password_reset_admin,password_reset_credential_manager,password_reset_service_desk</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 21:40:03</sys_created_on>
+        <sys_id>be2937d10730301024ecf9fc7c1ed0cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Blast Off</sys_name>
+        <sys_package display_value="Blast Off" source="x_536549_blast_off">59083b110730301024ecf9fc7c1ed0d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Blast Off">59083b110730301024ecf9fc7c1ed0d3</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_be2937d10730301024ecf9fc7c1ed0cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 21:40:03</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

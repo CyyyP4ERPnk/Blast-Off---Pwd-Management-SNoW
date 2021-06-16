@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Password Reset Active Answer)">04393b550730301024ecf9fc7c1ed09f</button>
+        <button_parent_table>pwd_active_answer</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>normalized_answer</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Normalized answer</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 21:40:08</sys_created_on>
+        <sys_id>04393b550730301024ecf9fc7c1ed0a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Normalized answer</sys_name>
+        <sys_package display_value="Blast Off" source="x_536549_blast_off">59083b110730301024ecf9fc7c1ed0d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Blast Off">59083b110730301024ecf9fc7c1ed0d3</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_04393b550730301024ecf9fc7c1ed0a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 21:40:08</sys_updated_on>
+        <table_name>pwd_active_answer</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=04393b550730301024ecf9fc7c1ed0a0"/>
+</record_update>

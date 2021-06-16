@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit (Password History)</name>
+        <parameter_screen/>
+        <query_condition table="pwd_history">sys_idSTARTSWITH{{Password History sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Password History sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-16 21:40:05</sys_created_on>
+        <sys_id>d729f7550730301024ecf9fc7c1ed0f0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit (Password History)</sys_name>
+        <sys_package display_value="Blast Off" source="x_536549_blast_off">59083b110730301024ecf9fc7c1ed0d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Blast Off">59083b110730301024ecf9fc7c1ed0d3</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_d729f7550730301024ecf9fc7c1ed0f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-16 21:40:05</sys_updated_on>
+        <table>pwd_history</table>
+        <template>active={{Password History active}}^credential_store={{Password History credential_store}}^order={{Password History order}}^password={{Password History password}}^user={{Password History user}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d729f7550730301024ecf9fc7c1ed0f0"/>
+</record_update>
